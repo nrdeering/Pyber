@@ -1,0 +1,12 @@
+Ride share trends in urban, suburban and rural areas:
+
+- Urban areas experience the largest number of total fares, total rides and total drivers out of the three city types, with rural areas being the smallest.
+
+- Rural areas seem to have larger average fares than suburban and urban areas. 
+One reason for this could be that rural area rides could be longer (average distance per ride would be helpful in this situation) or rideshares 
+charge more out in areas that experience little activity.
+Even though there are a lot more urban rides and drivers, fares are lower than suburban and rural areas because either the riders only travel a short 
+distance or fares are chargedat a lower price in crowded areas.
+
+-If you were to make a trend line for the average price per ride and the total number of rides, it
+ would make (I would assume) a negative slope. The more rides, the lower the fare is. The lower the amount of rides there are, the higher the fares are. 
